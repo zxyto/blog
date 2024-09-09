@@ -21,7 +21,7 @@
 title: Thoughts and things
 email: https://www.linkedin.com/in/jay-reddi/
 description: >- # this means to ignore newlines until "baseurl:"
-  Please checkout my LinkedIn profile for my profressional background.
+  I occasionally use this space to share interesting things about work, life and beyond!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://zxyto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zxyto
